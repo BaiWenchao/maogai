@@ -15,6 +15,7 @@
 - [第十一章](./ch11.md)
 - [第十四章](./ch14.md)
 - [备忘](./memo.md)
+- [日志](./log.md)
 
 ---
 <p style="text-align: center"><a href="http://beian.miit.gov.cn/" target="_blank">苏ICP备2020069100号</a></p>

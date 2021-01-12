@@ -6,7 +6,7 @@ module.exports = {
 		repo: "BaiWenchao/maogai",
 		repoLabel: "Github",
 		docsRepo: "BaiWenchao/maogai",
-		docsBranch: "master/docs",
+		docsBranch: "main",
 		editLinks: true,
 		editLinkText: "帮助我们改善此页面！",
 		lastUpdated: "Last Updated",
